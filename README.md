@@ -6,7 +6,7 @@ running on matcha 🍵
 Favorite Games: Warframe, FFXIV, KCDC, Elder Scrolls, Fallout  
 Music: DEAN, DPR IAN, keshi, joji, Crush  
 <br>
-everthing is a perpetual WIP engine.
+everything is a perpetual WIP engine.
 
 
 <!--
